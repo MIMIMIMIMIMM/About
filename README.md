@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marshall
+- 👀 I’m interested in ... Web Developement, Game Dev
+- 🌱 I’m currently learning ... HTML/CSS/JS Node.JS/NPM/SASS and React
